@@ -1,4 +1,4 @@
-import person from "../../assets/person.jpg";
+import person from "../../assets/images/person.png";
 import "./introduction.css";
 import InformationSummary from "./InformationSummary";
 
