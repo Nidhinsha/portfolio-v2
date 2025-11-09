@@ -1,4 +1,4 @@
-# Picto - Personal Portfolio Free Template
+# Picto - Personal Portfolio Template
 
 #### Preview
 
