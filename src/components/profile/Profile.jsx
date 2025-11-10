@@ -1,4 +1,5 @@
-import person from "../../assets/images/person.png";
+// import person from "../../assets/images/person.png";
+import person from "../../assets/images/dev-image.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
 import SocialMedia from "../common/socialMedia/SocialMedia";
